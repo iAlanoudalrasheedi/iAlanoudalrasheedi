@@ -1,16 +1,15 @@
 ## Hi there 👋
+ I'm Al Anoud AlRahsheedi! 
+💻 IT graduate with a strong interest in Cybersecurity & Networking.  
+🚀 Passionate about developing projects using various technologies and continuously enhancing my skills in the field.  
 
-<!--
-**iAlanoudalrasheedi/iAlanoudalrasheedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🛠 Skills & Technologies  
+- Programming Languages: Python, Java, Dart (Flutter)  
+- Web Development: HTML, CSS, SQL  
+- Cybersecurity: Fundamentals of security & networking  
 
-Here are some ideas to get you started:
+ 🔍 What I'm Working On  
+Exploring new technologies in Cybersecurity and improving my skills in vulnerability analysis.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me  
+📧 Email: [Alanoudalraheedi@outlook.com](mailto:Alanoudalraheedi@outlook.com)
